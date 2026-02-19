@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "歴史",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2026-02-19T15:03:49.985022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歴史",
+      "artist": "エレファントカシマシ",
+      "has_synced": true,
+      "path": "select/01_歴史_エレファントカシマシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歴史 | History Maker",
+      "artist": "Bigmama",
+      "has_synced": true,
+      "path": "select/02_歴史___History_Maker_Bigmama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歴史",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_歴史_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "歴史",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_02_歴史_エレファントカシマシ.txt"
+    }
+  ]
+}
